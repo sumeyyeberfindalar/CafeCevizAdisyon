@@ -1,0 +1,17 @@
+C:\c#Btk\CafeCeviz\CafeCeviz\bin\Debug\CafeCeviz.exe.config
+C:\c#Btk\CafeCeviz\CafeCeviz\bin\Debug\CafeCeviz.exe
+C:\c#Btk\CafeCeviz\CafeCeviz\bin\Debug\CafeCeviz.pdb
+C:\c#Btk\CafeCeviz\CafeCeviz\obj\Debug\CafeCeviz.csproj.AssemblyReference.cache
+C:\c#Btk\CafeCeviz\CafeCeviz\obj\Debug\CafeCeviz.csproj.SuggestedBindingRedirects.cache
+C:\c#Btk\CafeCeviz\CafeCeviz\obj\Debug\CafeCeviz.frmGiris.resources
+C:\c#Btk\CafeCeviz\CafeCeviz\obj\Debug\CafeCeviz.Properties.Resources.resources
+C:\c#Btk\CafeCeviz\CafeCeviz\obj\Debug\CafeCeviz.csproj.GenerateResource.cache
+C:\c#Btk\CafeCeviz\CafeCeviz\obj\Debug\CafeCeviz.csproj.CoreCompileInputs.cache
+C:\c#Btk\CafeCeviz\CafeCeviz\obj\Debug\CafeCeviz.exe
+C:\c#Btk\CafeCeviz\CafeCeviz\obj\Debug\CafeCeviz.pdb
+C:\c#Btk\CafeCeviz\CafeCeviz\obj\Debug\CafeCeviz.frmMenu.resources
+C:\c#Btk\CafeCeviz\CafeCeviz\obj\Debug\CafeCeviz.frmMutfak.resources
+C:\c#Btk\CafeCeviz\CafeCeviz\obj\Debug\CafeCeviz.frmSiparis.resources
+C:\c#Btk\CafeCeviz\CafeCeviz\obj\Debug\CafeCeviz.frmMasalar.resources
+C:\c#Btk\CafeCeviz\CafeCeviz\obj\Debug\CafeCeviz.frmPersonelEkleme.resources
+C:\c#Btk\CafeCeviz\CafeCeviz\obj\Debug\CafeCeviz.frmUrunler.resources
